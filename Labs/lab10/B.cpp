@@ -1,11 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-// int BFS(int i){
-//     if (i<0 || i>=n || j<0 || j>=n) return;
-//     if()
-// }
-
 int main(){
     int n;
     cin >> n;
